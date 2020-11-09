@@ -1,5 +1,6 @@
 #!/bin/bash
 #Practica16
+#https://github.com/a18danperllu/Practica16/dperez-afegir-usuari-local.sh
 
 
 if [[ "${UID}" -eq 0 ]]
