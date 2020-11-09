@@ -1,6 +1,7 @@
 #!/bin/bash
 #Practica16
 #https://github.com/a18danperllu/Practica16/dperez-afegir-usuari-local.sh
+#He afegit que demanès la password forçada per ser un nou login, encara que no la demanaves per si de cas, encara que ho demanaves automatitzat.
 
 
 if [[ "${UID}" -eq 0 ]]
